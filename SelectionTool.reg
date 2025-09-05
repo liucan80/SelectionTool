@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\IronCAD\IRONCAD 19.0\Applications\SelectionTool]
+@="{8B3BC00C-E8CA-407F-8CD0-D8FE7C9714EB}"
+"LoadOnStartup"=dword:00000000
+"ShowInList"=dword:00000001
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\IronCAD\New User Settings\IRONCAD 19.0\Applications\SelectionTool]
+@="{8B3BC00C-E8CA-407F-8CD0-D8FE7C9714EB}"
+"LoadOnStartup"=dword:00000000
+"ShowInList"=dword:00000001
